@@ -12,24 +12,15 @@
 <br/>
 
 <h2 style="font-size: 1.5em; color: #2d3748;">✅ Solution</h2>
-<p><b>Find My Space</b> is a simple platform that shows <b>real-time available parking spots</b> near you and lets you book instantly. Once booked, you receive a <b>Unique User ID</b> — this must be <u>noted down and kept safe</u> as proof of your booking.</p>
+<p><b>Find My Space</b> shows <b>real-time available parking spots</b> near you and lets you book instantly. Once booked, you receive a <b>Unique User ID</b> — this must be <u>noted down and kept safe</u> as proof of your booking.</p>
 <br/>
 
 <h2 style="font-size: 1.5em; color: #2d3748;">🧠 Key Features</h2>
-<h3 style="font-size: 1.25em; color: #4a5568;">For Drivers</h3>
 <ul>
 <li>📍 See available parking in real time</li>
 <li>🚗 Book instantly with one click</li>
 <li>🆔 Get a secure User ID for your booking</li>
 <li>📝 Use your User ID to confirm your spot</li>
-</ul>
-<br/>
-
-<h3 style="font-size: 1.25em; color: #4a5568;">For Parking Owners</h3>
-<ul>
-<li>🏠 Add your parking space easily</li>
-<li>📅 Update availability anytime</li>
-<li>📊 See bookings linked to User IDs</li>
 </ul>
 <br/>
 
@@ -48,7 +39,7 @@
 </tr>
 <tr>
 <td style="padding: 8px; border: 1px solid #cbd5e0;">Featured Listings</td>
-<td style="padding: 8px; border: 1px solid #cbd5e0;">Parking owners can pay to highlight their spot</td>
+<td style="padding: 8px; border: 1px solid #cbd5e0;">Priority display for certain parking spots</td>
 </tr>
 </tbody>
 </table>
